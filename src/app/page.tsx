@@ -334,7 +334,7 @@ export default function AgeCalculatorPage() {
         {/* Added overflow-hidden for confetti */}
         {/* GitHub Link Button */}
         <a
-          href="https://github.com/your-username/your-repo" // Replace with your actual repo URL
+          href="https://github.com/senapati484/age-calculator.git" // Replace with your actual repo URL
           target="_blank"
           rel="noopener noreferrer"
           className={cn(
@@ -350,7 +350,7 @@ export default function AgeCalculatorPage() {
           style={cardStyle} // Apply grid background style to card
         >
           <CardHeader className="pb-4">
-            <CardTitle className="text-center text-2xl sm:text-3xl font-medium tracking-tight text-gray-900 dark:text-gray-50">
+            <CardTitle className="text-center text-4xl font-semibold tracking-tight text-gray-900 dark:text-gray-50">
               Age Calculator
             </CardTitle>
           </CardHeader>
